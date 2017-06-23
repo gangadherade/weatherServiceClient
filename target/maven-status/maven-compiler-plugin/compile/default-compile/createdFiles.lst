@@ -1,0 +1,11 @@
+nl\interact\ipds\agentvi\connector\schema\ObjectFactory.class
+nl\interact\ipds\agentvi\connector\schema\GetWeatherResponse.class
+nl\interact\ipds\agentvi\connector\schema\GlobalWeatherHttpGet.class
+nl\interact\ipds\agentvi\connector\schema\GlobalWeather.class
+nl\interact\ipds\agentvi\connector\schema\package-info.class
+nl\interact\ipds\agentvi\connector\schema\GetCitiesByCountryResponse.class
+nl\interact\ipds\agentvi\connector\schema\GetCitiesByCountry.class
+nl\interact\ipds\agentvi\connector\schema\GetWeather.class
+nl\interact\ipds\agentvi\connector\schema\GlobalWeatherSoap.class
+com\ganga\javamind\WeatherTest.class
+nl\interact\ipds\agentvi\connector\schema\GlobalWeatherHttpPost.class
